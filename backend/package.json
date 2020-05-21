@@ -1,0 +1,15 @@
+{
+  "name": "okdb-sample-todo-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "server": "node server.js"
+  },
+  "keywords": [],
+  "author": "okdb",
+  "license": "MIT",
+  "dependencies": {
+    "okdb-server": "^1.0.1"
+  }
+}
