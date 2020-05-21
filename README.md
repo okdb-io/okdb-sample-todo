@@ -2,8 +2,6 @@
 
 Using <a href="https://okdb.io">realtime okdb toolkit</a> to quickly build realtime apps.
 
-This sample consists of a backend and a frontend.
-
 See <a href="https://okdb.io/p/docs/getting-started">Getting Started with okdb</a> for more details.
 
 ## Backend
