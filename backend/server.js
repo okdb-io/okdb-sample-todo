@@ -1,7 +1,12 @@
 const OkdbServer = require("okdb-server");
 
 // create and start server on 7899 port by default
-const okdb = new OkdbServer();
+const options = {
+    cors: {
+        enabled: true
+    }
+}
+const okdb = new OkdbServer(options);
 
 // sample authentication, e.g. should validate your own auth token
 okdb.handlers().auth((token) => {

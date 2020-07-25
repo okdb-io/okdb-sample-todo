@@ -10,6 +10,6 @@
   "author": "okdb",
   "license": "MIT",
   "dependencies": {
-    "okdb-server": "^1.0.1"
+    "okdb-server": "^1.1.1"
   }
 }
